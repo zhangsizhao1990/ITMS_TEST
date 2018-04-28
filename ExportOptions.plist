@@ -9,19 +9,19 @@
 		<key>appURL</key>
 		<string>https://github.com/zhangsizhao1990/ITMS_TEST/blob/master/Damimall_Release.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://github.com/zhangsizhao1990/ITMS_TEST/blob/master/1024logo.-1024.png</string>
+		<string>https://github.com/zhangsizhao1990/ITMS_TEST/blob/master/57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://github.com/zhangsizhao1990/ITMS_TEST/blob/master/1024logo.-1024.png</string>
+		<string>https://github.com/zhangsizhao1990/ITMS_TEST/blob/master/512.png</string>
 	</dict>
 	<key>method</key>
-	<string>development</string>
+	<string>ad-hoc</string>
 	<key>provisioningProfiles</key>
 	<dict>
 		<key>com.zhongguodamiwang.app</key>
-		<string>DamiDevelop</string>
+		<string>DamiAdHoc</string>
 	</dict>
 	<key>signingCertificate</key>
-	<string>iPhone Developer</string>
+	<string>iPhone Distribution</string>
 	<key>signingStyle</key>
 	<string>manual</string>
 	<key>stripSwiftSymbols</key>
