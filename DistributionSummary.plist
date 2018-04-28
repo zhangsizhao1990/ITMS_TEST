@@ -13,11 +13,11 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>B3CE4376CDBD8C1019C68E1590E2EABED7B482F8</string>
+				<string>E07DD212871BE47D9A9A623709EAB18996095D5B</string>
 				<key>dateExpires</key>
 				<string>2018/11/21</string>
 				<key>type</key>
-				<string>iOS Distribution</string>
+				<string>iOS Development</string>
 			</dict>
 			<key>embeddedBinaries</key>
 			<array>
@@ -30,11 +30,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>B3CE4376CDBD8C1019C68E1590E2EABED7B482F8</string>
+						<string>E07DD212871BE47D9A9A623709EAB18996095D5B</string>
 						<key>dateExpires</key>
 						<string>2018/11/21</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>iOS Development</string>
 					</dict>
 					<key>name</key>
 					<string>HelpDesk.framework</string>
@@ -55,11 +55,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>B3CE4376CDBD8C1019C68E1590E2EABED7B482F8</string>
+						<string>E07DD212871BE47D9A9A623709EAB18996095D5B</string>
 						<key>dateExpires</key>
 						<string>2018/11/21</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>iOS Development</string>
 					</dict>
 					<key>name</key>
 					<string>HyphenateLite.framework</string>
@@ -79,7 +79,7 @@
 				<key>com.apple.developer.team-identifier</key>
 				<string>67KH8G54PQ</string>
 				<key>get-task-allow</key>
-				<false/>
+				<true/>
 				<key>keychain-access-groups</key>
 				<array>
 					<string>67KH8G54PQ.com.zhongguodamiwang.app</string>
@@ -90,9 +90,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>28c80bf0-f125-403a-b3e7-751387ffceb6</string>
+				<string>598c4655-44b9-43ca-b6a4-ef3583516ad7</string>
 				<key>name</key>
-				<string>AD_HOC</string>
+				<string>DamiDevelop</string>
 			</dict>
 			<key>team</key>
 			<dict>
